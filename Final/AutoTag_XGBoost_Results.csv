@@ -1,0 +1,16 @@
+CSV_Variable,System_ID,Measurement_Type,Predicted_Tag,Predicted_Tag_Prob,Golden_Tag
+AHU-2 AvgCcoilTmp,Other,AHU-2 AvgCcoilTmp,temperature,0.7269131541252136,temperature
+AHU-2 AvgMaTmp,Other,AHU-2 AvgMaTmp,temperature,0.7358292937278748,temperature
+AHU-2 ChwEnTmp,Other,AHU-2 ChwEnTmp,temperature,0.7269131541252136,temperature
+AHU-2 ChwVlvPos,Other,AHU-2 ChwVlvPos,none,0.3746885359287262,status
+AHU-2 MaTmp1,Other,AHU-2 MaTmp1,temperature,0.7358292937278748,temperature
+AHU-2 OaFl,Other,AHU-2 OaFl,temperature,0.7358292937278748,flow
+AHU-2 OaTmp,Other,AHU-2 OaTmp,temperature,0.7358292937278748,temperature
+AHU-2 SaFanASts,Other,AHU-2 SaFanASts,status,0.5454781651496887,status
+AHU-2 SaFanBSts,Other,AHU-2 SaFanBSts,status,0.5454781651496887,status
+AHU-2 SaFanCSts,Other,AHU-2 SaFanCSts,status,0.5454781651496887,status
+AHU-2 SaFanDSts,Other,AHU-2 SaFanDSts,status,0.5454781651496887,status
+AHU-2 SaFanESts,Other,AHU-2 SaFanESts,status,0.5454781651496887,status
+AHU-2 SaFanFSts,Other,AHU-2 SaFanFSts,status,0.5454781651496887,status
+AHU-2 SaFl,Other,AHU-2 SaFl,temperature,0.7358292937278748,flow
+AHU-2 SaTmp,Other,AHU-2 SaTmp,temperature,0.7358292937278748,temperature
