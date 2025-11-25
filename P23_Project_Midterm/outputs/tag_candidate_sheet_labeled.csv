@@ -1,0 +1,8 @@
+point_id,tag1,tag1_score,tag2,tag2_score,tag3,tag3_score,gold_tags
+AHU-4 AvgCcoilTmp,temperature,0.898,sensor,0.5,,,temperature
+AHU-4 AvgMaTmp,temperature,0.887,sensor,0.5,,,temperature
+AHU-4 ChwEnTmp,temperature,0.8,sensor,0.5,,,temperature
+AHU-4 EconMd,status,0.65,command,0.552,mode,0.52,status
+AHU-4 HrwClgMd,status,0.67,command,0.57,mode,0.536,
+AHU-4 HrwSts,status,0.65,command,0.552,mode,0.52,status
+AHU-4 SaTmp,temperature,0.898,sensor,0.5,,,temperature
